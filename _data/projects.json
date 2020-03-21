@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Docker Playground Ansible Role",
-		"image": "docker-apps.png",
+		"image": "docker-ansible.png",
 		"date": "Oct 2019",
 		"tags": ["ansible","docker"]
 	},
@@ -19,7 +19,7 @@
 	},
 	{
 		"name": "Redis Playground (in development)",
-		"image": "placeholder2.jpg",
+		"image": "docker-redis.png",
 		"date": "Aug 2019",
 		"tags": ["web","docker"]
 	}
