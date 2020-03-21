@@ -139,15 +139,3 @@ machine some people open notepad with ease. make a quick change to a file, then 
 
 ## In Conclusion
 Making the changes to Linux in 2019 shouldnt be as hard as your telling yourself it is. With a world that's ever changing and prices that only seem to be getting higher, making the switch, saving some money, and using open source software will help you in the days to come. If you get stuck or have any other questions feel free to contact me on twitter []@TechGameTeddy](https://twitter.com/TechGameTeddy)
-
-
-## Resource Links
-**[Email Client | Ms Office |  [Thunderbird](https://www.thunderbird.net/en-US/) | [Hiri](https://www.hiri.com/)**
-**[Sticky notes | Quick Notes | Google Keep https://en.wikipedia.org/wiki/Google_Keep)**
-**[Note taking | Evernote | [Nixnote](http://nixnote.org/NixNote-Home/)**
-**[MS office | libre office https://www.libreoffice.org/)**
-**[Video Editor | Openshot https://www.openshot.org/)**
-**[Video Player | VLC https://www.videolan.org/vlmc/)**
-**[Image Editor | Photoshop | Gimp https://www.gimp.org/)**
-**[Audio Engineering | FL Studios | LMMS https://lmms.io/)**
-**[ Muisc Player | ITunes | Nightingale https://getnightingale.com/)**
