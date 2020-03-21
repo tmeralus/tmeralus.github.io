@@ -7,13 +7,13 @@
 	},
 	{
 		"name": "Tick Stack Ansible Role",
-		"image": "placeholder2.jpg",
+		"image": "tick-stack-graphs.png",
 		"date": "Sep 2019",
 		"tags": ["ansible",]
 	},
 	{
 		"name": "NBA Matchup (in development)",
-		"image": "placeholder2.jpg",
+		"image": "nba-matchup-pic.png",
 		"date": "June 2014",
 		"tags": ["python","web"]
 	},
