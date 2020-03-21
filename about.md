@@ -18,7 +18,7 @@ permalink: /about/
 
 :clipboard: You can view my [resume here](/contact)
 
-:pencil2: <i class="fas fa-landmark"></i> As I have grown and learned through the years I have found writing a useful resource for not only myself but others in the Linux and tech communities. I spend my free time working with linux, automation tools, DevOps strategies, open source tools, and documenting potentially valuable content as I go.
+fa_icon "camera-retro" :pencil2: As I have grown and learned through the years I have found writing a useful resource for not only myself but others in the Linux and tech communities. I spend my free time working with linux, automation tools, DevOps strategies, open source tools, and documenting potentially valuable content as I go.
 
 Click [here](/projects/) to look at a few of my current (and older) projects
 
