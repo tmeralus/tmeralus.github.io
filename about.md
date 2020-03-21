@@ -10,15 +10,15 @@ permalink: /about/
 
  I have my turned passions art, technology, and open source software into a profitable means of living.
 
-:octocat: I enjoy writing useful & reusable software tools to help others — check out my [projects page](/projects/).
+* I enjoy writing useful & reusable software tools to help others — check out my [projects page](/projects/).
 
-:heart: I'm addicted to basketball, poetry, traveling, history, quizzes and trivia's, getting into philosophical debates, and meeting new people.
+* I'm addicted to basketball, poetry, traveling, history, quizzes and trivia's, getting into philosophical debates, and meeting new people.
 
- :notebook: My Poetry Portal [Poetry Portal](/projects/) is a nice place to see some of my written and animated work.
+* My Poetry Portal [Poetry Portal](/projects/) is a nice place to see some of my written and animated work.
 
-:clipboard: You can view my [resume here](/contact)
+* You can view my [resume here](/contact)
 
-fa_icon "camera-retro" :pencil2: As I have grown and learned through the years I have found writing a useful resource for not only myself but others in the Linux and tech communities. I spend my free time working with linux, automation tools, DevOps strategies, open source tools, and documenting potentially valuable content as I go.
+* As I have grown and learned through the years I have found writing a useful resource for not only myself but others in the Linux and tech communities. I spend my free time working with linux, automation tools, DevOps strategies, open source tools, and documenting potentially valuable content as I go.
 
 Click [here](/projects/) to look at a few of my current (and older) projects
 
