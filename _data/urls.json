@@ -21,14 +21,14 @@
     "icon": "fa-graduation-cap",
   },
   {
-    "text": "Github",
-    "url": "https://www.github.com/tmeralus",
-    "icon": "fa-github"
-  },
-  {
     "text": "Contact",
     "url": "/contact/",
     "icon": "fa-envelope"
+  },
+  {
+    "text": "Github",
+    "url": "https://www.github.com/tmeralus",
+    "icon": "fa-github"
   },
   {
     "text": "XML Feed",
