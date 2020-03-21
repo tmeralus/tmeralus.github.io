@@ -1,0 +1,25 @@
+title: Tedley Meralus
+description: My Slice of the Internet
+author: Tedley Meralus
+logo: /static/img/ted-circle.png
+github: https://github.com/tmeralus
+about: Linux Engineer
+
+baseurl: ""
+url: ""
+allowsearch: false
+disqus_shortname: techgameteddy
+# google_analytics:
+
+share:
+  twitter_username: \TechGameTeddy
+  fb_appid: # 000000000000
+
+enableTags: true
+tagarray: []
+
+paginate: 7
+per_page: 7
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
