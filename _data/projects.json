@@ -24,6 +24,7 @@
 		"name": "Redis Playground (in development)",
 		"image": "docker-redis.png",
 		"date": "Aug 2019",
+		"url": "",
 		"tags": ["web","docker"]
 	},
 	{
