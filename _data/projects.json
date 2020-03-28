@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Docker Playground Ansible Role",
-		"image": "docker-ansible.png",
+		"image": "ansible-dir.png",
 		"date": "Oct 2019",
 		"url": "",
 		"tags": ["ansible","docker"]
