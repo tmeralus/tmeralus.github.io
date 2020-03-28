@@ -3,24 +3,34 @@
 		"name": "Docker Playground Ansible Role",
 		"image": "docker-ansible.png",
 		"date": "Oct 2019",
+		"url": "",
 		"tags": ["ansible","docker"]
 	},
 	{
 		"name": "Tick Stack Ansible Role",
-		"image": "tick-stack-graphs.png",
+		"image": "grafana-graph.png",
 		"date": "Sep 2019",
+		"url": "",
 		"tags": ["ansible",]
 	},
 	{
 		"name": "NBA Matchup (in development)",
 		"image": "nba-matchup.png",
 		"date": "June 2014",
+		"url": "",
 		"tags": ["python","web"]
 	},
 	{
 		"name": "Redis Playground (in development)",
 		"image": "docker-redis.png",
 		"date": "Aug 2019",
+		"tags": ["web","docker"]
+	},
+	{
+		"name": "Docker Nagios Setup",
+		"image": "nagios-gui.png",
+		"date": "Mar 2020",
+		"url": "",
 		"tags": ["web","docker"]
 	}
 
