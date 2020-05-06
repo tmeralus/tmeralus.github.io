@@ -3,28 +3,28 @@
 		"name": "Docker Playground Ansible Role",
 		"image": "ansible-dir.png",
 		"date": "Oct 2019",
-		"url": "",
+		"url": "https://github.com/tmeralus/ansible-role-docker-playground",
 		"tags": ["ansible","docker"]
 	},
 	{
 		"name": "Tick Stack Ansible Role",
 		"image": "grafana-graph.png",
 		"date": "Sep 2019",
-		"url": "",
+		"url": "https://github.com/tmeralus/ansible-role-tick-stack",
 		"tags": ["ansible",]
 	},
 	{
 		"name": "NBA Matchup (in development)",
 		"image": "nba-matchup.png",
 		"date": "June 2014",
-		"url": "",
+		"url": "https://github.com/tmeralus/flask-nba-scraper",
 		"tags": ["python","web"]
 	},
 	{
 		"name": "Redis Playground (in development)",
 		"image": "docker-redis.png",
 		"date": "Aug 2019",
-		"url": "",
+		"url": "https://github.com/tmeralus/ansible-role-redis-sentinel-HA",
 		"tags": ["web","docker"]
 	},
 	{
