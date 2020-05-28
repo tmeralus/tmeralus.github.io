@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Garcia Truck FOod"
+title:  "Garcia Truck Food"
 date:   2018-09-24
 excerpt: "Website for Garcia Truck Food"
 project: true
