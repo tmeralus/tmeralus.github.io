@@ -4,6 +4,7 @@ title: Landed on Mercury
 date: 2020-05-27
 excerpt: "RIP Kendall KennyMercury Meralus"
 tags:
+---
 
 My cousin Alan once told us a joke. A duck walks into a bar and asks "Got any grapes?"
 Bartender says "What? Grapes? No, this is a bar, not a fruit store. Get out, duck"
