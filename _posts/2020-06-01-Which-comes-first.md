@@ -18,13 +18,13 @@ tags:
 
 I have worked in the IT industry for 6+ years and well over 2 years well versed in the world of Linux in Enterprise (at the time of this blog post). I even have Ubuntu's canonical logo and the Linux penguin tattooed on me because I believe in the philosophy of Ubuntu and love linux. Sadly though, that is not enough. Companies are still looking for someone who can prove their skills or has 5+ years in specific cloud based technology or bash/python scripting.  After losing my job due to the abrupt changes from the COVID-19 pandemic I started to question how I could find a way to show that I was not only skilled with the certifications under my belt, but that I was competent in the software and technology stacks that I worked on at my previous jobs and in my free time. So I decided to leverage my Linux, networking, AWS, Devops, and technical knowledge to create a project that would help gather more insight on the damages of COVID-19.
 
-# PROJECT CUDI (continuous user development interface)
+### PROJECT CUDI (continuous user development interface)
 This Project was built to do 4 things:
 - Provide information on the affects of COVID-19
 - Break the chicken's neck and scramble its eggs to demolish the chicken or the egg stigma that comes with experience and and the US job market.
 - Provide proof of passion for Tedley Meralus in hopes to gain future employment with a company that requires his Liam Neeson-esque set of skills.
 
-# Objectives
+### Objectives
  - Use a technology to provide information to others.  
  - Leverages knowledge of cloud and networking skills to provide evidence of competency
  - in the following skills.
@@ -41,25 +41,22 @@ This Project was built to do 4 things:
 
 
 ### Dashboard
-T.I.C.K -Grafana Stack Deployment Anisble Playbook  
-https://github.com/tmeralus/ansible-role-tick-stack
+[T.I.C.K -Grafana Stack Deployment Anisble Playbook](https://github.com/tmeralus/ansible-role-tick-stack)
 
-url: http://meralus.com:3000
-username: guest
-password: guest
+[http://meralus.com:3000](http://meralus.com:3000)
+- username: guest
+- password: guest
 
 ### Jenkins Demo (Devops CI/CD)
 You can login to the jenkins site with the follwoing username / password
 
-url: http://meralus.com:8080
-username: guest
-password: guest
-
- https://www.virgin.com/entrepreneur/how-young-people-are-breaking-work-experience-catch-22
+[http://meralus.com:8080](http://meralus.com:8080)
+- username: guest
+- password: guest
 
 ### Dev Environment Script (Bash Scripting)
 https://github.com/tmeralus/dev-environment
 
-# Application Monitoring
+### Application Monitoring
 Nagios Deployment with Ansible
 https://github.com/tmeralus/ansible-role-nagios-server

@@ -14,9 +14,9 @@
 		"tags": ["ansible",]
 	},
 	{
-		"name": "NBA Matchup (in development)",
+		"name": "NBA Web Scraper (in development)",
 		"image": "nba-matchup.png",
-		"date": "June 2014",
+		"date": "March 2020",
 		"url": "https://github.com/tmeralus/flask-nba-scraper",
 		"tags": ["python","web"]
 	},
@@ -31,7 +31,7 @@
 		"name": "Docker Nagios Setup",
 		"image": "nagios-gui.png",
 		"date": "Mar 2020",
-		"url": "",
+		"url": "https://github.com/tmeralus/docker-nagios-setup",
 		"tags": ["web","docker"]
 	}
 
