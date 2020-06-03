@@ -45,6 +45,7 @@ This Project was built to do 4 things:
 
 [http://meralus.com:3000](http://meralus.com:3000)
 - username: guest
+- email: techgameteddy@gmail.com
 - password: guest
 
 ### Jenkins Demo (Devops CI/CD)
