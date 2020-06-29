@@ -61,3 +61,19 @@ https://github.com/tmeralus/dev-environment
 ### Application Monitoring
 Nagios Deployment with Ansible
 https://github.com/tmeralus/ansible-role-nagios-server
+
+
+## Bash Script:
+Dev Env Script
+https://github.com/tmeralus/dev-environment-script
+
+## Ansible Playbook: Redis HA deployment
+Redis HA deployment
+https://github.com/tmeralus/ansible-role-redis-sentinel-HA
+
+## • Docker: Nagios Container
+Nagios Container
+ https://github.com/tmeralus/docker-nagios-setup/blob/master/Dockerfile
+
+## Wordpress Sites:
+www.cglakeworth.org
