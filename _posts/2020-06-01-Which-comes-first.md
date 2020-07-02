@@ -51,7 +51,7 @@ This Project was built to do 4 things:
 ### Jenkins Demo (Devops CI/CD)
 You can login to the jenkins site with the follwoing username / password
 
-[http://meralus.com:8080](http://meralus.com:8080)
+[http://jenkins.meralus.com](http://jenkins.meralus.com)
 - username: guest
 - password: guest
 
