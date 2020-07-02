@@ -40,14 +40,6 @@ This Project was built to do 4 things:
    - blogging, writing, literary skills
 
 
-### Dashboard
-[T.I.C.K -Grafana Stack Deployment Anisble Playbook](https://github.com/tmeralus/ansible-role-tick-stack)
-
-[http://meralus.com:3000](http://meralus.com:3000)
-- username: guest
-- email: techgameteddy@gmail.com
-- password: guest
-
 ### Jenkins Demo (Devops CI/CD)
 You can login to the jenkins site with the follwoing username / password
 
