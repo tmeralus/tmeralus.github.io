@@ -43,9 +43,7 @@ This Project was built to do 4 things:
 ### Jenkins Demo (Devops CI/CD)
 You can login to the jenkins site with the follwoing username / password
 
-[http://jenkins.meralus.com](http://jenkins.meralus.com)
-- username: guest
-- password: guest
+[Jenkins Docker Container](httpsss://github.com/tmeralus/docker-jenkins-setup)
 
 ### Dev Environment Script (Bash Scripting)
 https://github.com/tmeralus/dev-environment
@@ -66,6 +64,4 @@ https://github.com/tmeralus/ansible-role-redis-sentinel-HA
 ## • Docker: Nagios Container
 Nagios Container
  https://github.com/tmeralus/docker-nagios-setup/blob/master/Dockerfile
-
-## Wordpress Sites:
-www.cglakeworth.org
+ 
