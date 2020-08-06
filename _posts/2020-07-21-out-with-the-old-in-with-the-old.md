@@ -28,3 +28,21 @@ Jenkins, being the automation and deployment platform allowed me to apply change
 Using the knowledge I had with Ansible, Jenkins, and Git allowed me to take an old Nagios platform and use with a more modern day approach. The old approach of pulling the tar file from nagios and trying to untar and configure the perl scripts from scratch is now a thing of the past. Managing Nagios by accessing the server and navigating to the files, making copies, and then restarting nagios has now become a Jenkins freestyle job that I can test before pushing full changes for nagios. I've taken out the old methods of managing the software and gave it a new spin. Future admins who will take my place will have documentation and git changes to go through to help with updating and manaing multiple linux server and network devices using the new/old.... vintage Nagios.
 
 I will write be writing more blogs about how to use Jenkins, how to run the ansible playbook, and how to setup up the entire environment soon. For now, like Nagios, we will keep in classy.
+
+# TLDR (Too Long Didn't Read)
+I found new ways to manage an outdate, but very useful monitoring platform using Ansible, git, and jenkins.
+
+## Ansible Playbook
+[Link:](https://Github.com/tmeralus/ansible-role-nagios-server) was a helpful start to show how others setup and deploy nagios through Ansible. The original playbook was forked from [here](https://Github.com/sadsfae/Ansible-nagios)
+
+
+## Nagios Docker Container Setup
+[Link:](https://github.com/tmeralus/docker-nagios-setup)
+
+## Jenkins Demo project
+[Link:](https://github.com/tmeralus/jenkins-build-projects.git)
+login information
+username: guest
+password: guest
+
+Jenkins Jobs:

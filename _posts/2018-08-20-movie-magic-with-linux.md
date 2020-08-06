@@ -4,6 +4,7 @@ title: Movie Magic with Linux
 date: 2018-08-20
 excerpt: "The Open Source MS Outlook Alternative"
 tags: [new app, code, linux, github]
+comments: true
 ---
 
 Hollywood has finally gone open source
