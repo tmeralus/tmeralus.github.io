@@ -1,16 +1,16 @@
 [
 	{
+		"name": "VB Tech Toolkit",
+		"image": "work_in_progress.png",
+		"date": "Oct 2014",
+		"url": "https://github.com/tmeralus/VB-TechToolkit",
+		"tags": ["ansible","docker"]
+	},
+	{
 		"name": "Docker Playground Ansible Role",
 		"image": "ansible-dir.png",
 		"date": "Oct 2019",
 		"url": "https://github.com/tmeralus/ansible-role-docker-playground",
-		"tags": ["ansible","docker"]
-	},
-	{
-		"name": "VB Tech Toolkit",
-		"image": "tech-toolkit.png",
-		"date": "Oct 2014",
-		"url": "https://github.com/tmeralus/VB-TechToolkit",
 		"tags": ["ansible","docker"]
 	},
 	{
@@ -19,13 +19,6 @@
 		"date": "Sep 2019",
 		"url": "https://github.com/tmeralus/ansible-role-tick-stack",
 		"tags": ["ansible",]
-	},
-	{
-		"name": "NBA Web Scraper (in development)",
-		"image": "nba-matchup.png",
-		"date": "March 2020",
-		"url": "https://github.com/tmeralus/flask-nba-scraper",
-		"tags": ["python","web"]
 	},
 	{
 		"name": "Redis Playground (in development)",
