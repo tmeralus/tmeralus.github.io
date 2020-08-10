@@ -33,6 +33,12 @@
 		"date": "Mar 2020",
 		"url": "https://github.com/tmeralus/docker-nagios-setup",
 		"tags": ["web","docker"]
-	}
-
+	},
+	{
+		"name": "Docker Jenkins Build Project",
+		"image": "jenkins-homepage.png",
+		"date": "Aug 2020",
+		"url": "https://github.com/tmeralus/docker-jenkins-build-projects",
+		"tags": ["devops","docker"]
+	},
 ]
