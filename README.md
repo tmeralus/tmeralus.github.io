@@ -3,4 +3,4 @@ personal blog and portfolio page
 
 http://tmeralus.github.io
 
-http://meralus.com
+http://blog.meralus.com
