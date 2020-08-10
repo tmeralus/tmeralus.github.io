@@ -18,7 +18,7 @@
 		"image": "grafana-graph.png",
 		"date": "Sep 2019",
 		"url": "https://github.com/tmeralus/ansible-role-tick-stack",
-		"tags": ["ansible",]
+		"tags": ["ansible","monitoring",]
 	},
 	{
 		"name": "Redis Playground (in development)",

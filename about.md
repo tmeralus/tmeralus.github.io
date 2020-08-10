@@ -14,8 +14,6 @@ permalink: /about/
 
 * I'm addicted to basketball, poetry, traveling, history, quizzes and trivia's, getting into philosophical debates, and meeting new people.
 
-* My Poetry Portal [Poetry Portal](/projects/) is a nice place to see some of my written and animated work.
-
 * You can view my [resume here](/contact)
 
 As I have grown and learned through the years I have found writing a useful resource for not only myself but others in the Linux and tech communities. I spend my free time working with linux, automation tools, DevOps strategies, open source tools, and documenting potentially valuable content as I go.
