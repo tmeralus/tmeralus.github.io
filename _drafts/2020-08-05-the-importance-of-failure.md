@@ -64,12 +64,4 @@ Dockerhub link:
 login information
 username: guest
 password: guest
-
-
-# Apache GeoIP Challenge
-
-Issue: An application monitor is needed to view apache web servers and check where connections are coming from.
-Possible Solution: [Grafana NGINX GeoIP dashboard](https://grafana.com/grafana/dashboards/8342)
-Problem: This dashboard works great with NGINX, but company A uses apache and needs something that works with apache.
-
-Jenkins Build Setup:
+ 
