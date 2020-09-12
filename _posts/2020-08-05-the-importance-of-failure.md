@@ -59,9 +59,8 @@ Dockerhub link:
 [Setup:](https://github.com/tmeralus/docker-ccda-validator/blob/master/README.md)
 
 ## Jenkins Demo project
-[Link:](https://github.com/tmeralus/jenkins-build-projects.git)
+[Link:](https://github.com/tmeralus/docker-jenkins-build-projects)
 [Setup:](https://github.com/tmeralus/jenkins-build-projects/blob/master/README.md)
 login information
 username: guest
 password: guest
- 
