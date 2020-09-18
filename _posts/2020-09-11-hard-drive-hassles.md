@@ -89,10 +89,6 @@ After finding methods to dry the pice I was able to plug and play the external h
 
 ![Western Digital 5TB HDD](/assets/blog/hdd-repair-1-500.jpg)
 
- <img src="https://github.com/tmeralus/tmeralus.github.io/blob/master/assets/blog/hdd-repair-1-500.jpg" alt="Western Digital 5TB HDD" width="500" height="600"> 
-
-<img src="assets/blog/hdd-repair-1-500.jpg" alt="Western Digital 5TB HDD" width="500" height="600"> 
-
 The lessons learned today and listening to Cardi B's WAP song will remind me of that one time LInux failed me....but didn't. Linux never fails. Thanks for reading. 
 
  
