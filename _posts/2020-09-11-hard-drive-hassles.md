@@ -32,13 +32,14 @@ Confused I look back to my gui and see that the external shows its connected, di
 Now even more confused than when I started I figured [Gparted](https://gparted.org/) never steers me wrong. I fire open one of the most known and most popular and free applications for hard disks and partitioning in the world thinking this may save me. Gparted is a free partition editor for managing 
 disks so why not use that. 
 
+### scratches head
 Gparted showed a flag on the external drive (which apparently shows up to the party when it wants to).
 The flag states I should check the device and and run a "checkdisk -f" to repair the drive. 
-*scratches head*
+
 
 Checkdisk -f could potentially damage or format the drive right? Is'nt checkdisk a command in command prompt? Something't not right. 
 
-Here comes the meat and potatoes. 
+### Here comes the meat and potatoes. 
 Realizing that the drive isnt operating in the most efficient manner I assumed that a block of some sort is damaged and the drive could be going back. I know there is a small windows application called [HD TUNE](https://www.hdtune.com/) that I can use and check the full health of the drive. Right not its fighting with me to read the partition on the disk like a dog and a chew toy. 
 
 I power down and unplug the drive and plug it into the only windows machine in my house and run hd tune's full test to check for errors and benchmark results. 
@@ -75,6 +76,7 @@ I check the disk to see if it could be accessed, and BOOM! its working!
 Nothing I did specifically got it working per say. It just worked. After checking my bash script to make sure 
 no specific function is triggering changes to the hard drive other than adding data I start laughing. 
 
+### Always understand the problem
 I spent about an hour trying to figure out what software could help or could solve this issue, but as I start looking around the Western Digital Hard drive and look up failure rates I realized this isnt software related. Software is just a tool used to connect other software or hardware together. The problem with the hard drive not connecting properly is most likely hardware related. I should have done some more hardware troubleshooting hardware steps to rule out all hard drive related issues. Firstly, has the usb cable been burnt or warn out? Is the hard drive controller burn or damaged. can I smell any signs of damage? 
 
 
@@ -82,10 +84,14 @@ Well, two things can be true, your hard drive controller can be messed up, and, 
 
 I got my CompTIA A+ over 5 years ago now but one lesson I learned when I committed to getting into the industry was to always take a step back and understand the problem. Switching between the two different OS's and noticing differences in the connectivity of both showed me that there is something wrong with how the external hard drive is connecting to the computers. 
 
-The photo shows me taking apart the hard drive controller and revealing the WET ADAPTER PIECE. 
+I decided to take apart the hard drive controller from the case and reveal the WET ADAPTER PIECE. 
 After finding methods to dry the pice I was able to plug and play the external hard drive with ease, backup all the data off that and onto my new 5TB external hard drive. 
 
-![Western Digital 5TB HDD](https://github.com/tmeralus/tmeralus.github.io/blob/master/assets/blog/hdd-repair-1-500.jpg)
+![Western Digital 5TB HDD](/assets/blog/hdd-repair-1-500.jpg)
+
+ <img src="https://github.com/tmeralus/tmeralus.github.io/blob/master/assets/blog/hdd-repair-1-500.jpg" alt="Western Digital 5TB HDD" width="500" height="600"> 
+
+<img src="assets/blog/hdd-repair-1-500.jpg" alt="Western Digital 5TB HDD" width="500" height="600"> 
 
 The lessons learned today and listening to Cardi B's WAP song will remind me of that one time LInux failed me....but didn't. Linux never fails. Thanks for reading. 
 
