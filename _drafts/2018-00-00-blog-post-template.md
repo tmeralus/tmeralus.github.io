@@ -8,7 +8,9 @@ tags: [add, tags, here,]
 comments: true
 ---
 
-![Image Title Name](/assets/img/blog/<image-name>){:class="img-responsive"}
+![Image Title Name](/assets/img/blog/<image-name>)
+{:class="img-responsive"}
+
 
 This is a an area where text goes
 Adding the project false flag allows this template to go into the post section of your page

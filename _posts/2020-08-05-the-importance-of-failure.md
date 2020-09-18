@@ -28,7 +28,7 @@ The interview skills challenge wanted me to setup an application built from the 
 
 Description: CCDA provides capabilities to validate your CCDAapplicable standards-specifications.
 
-Link: https://github.com/onc-healthit/reference-ccda-validator
+[Link:](https://github.com/onc-healthit/reference-ccda-validator)
 
 Interview Challenge: Build out the CCDA validator on a given web server
 
