@@ -89,7 +89,7 @@ After finding methods to dry the pice I was able to plug and play the external h
 
 ![Western Digital 5TB HDD](/assets/blog/hdd-repair-1-500.jpg)
 
-The lessons learned today and listening to Cardi B's WAP song will remind me of that one time LInux failed me....but didn't. Linux never fails. Thanks for reading. 
+## The lessons learned today and listening to Cardi B's WAP song will remind me of that one time LInux failed me....but didn't. Linux never fails. Thanks for reading. 
 
  
 
