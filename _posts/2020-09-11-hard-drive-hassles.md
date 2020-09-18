@@ -80,14 +80,14 @@ I spent about an hour trying to figure out what software could help or could sol
 
 Well, two things can be true, your hard drive controller can be messed up, and, your hard drive controller doesnt have to been burnt out or smell burnt.
 
-![Image Title Name](/assets/img/blog/hdd-repair-2.jpg)
+![Western Digital 5TB HDD](https://github.com/tmeralus/tmeralus.github.io/blob/master/assets/blog/hdd-repair-1-500.jpg)
 
 I got my CompTIA A+ over 5 years ago now but one lesson I learned when I committed to getting into the industry was to always take a step back and understand the problem. Switching between the two different OS's and noticing differences in the connectivity of both showed me that there is something wrong with how the external hard drive is connecting to the computers. 
 
 The photo shows me taking apart the hard drive controller and revealing the WET ADAPTER PIECE. 
 After finding methods to dry the pice I was able to plug and play the external hard drive with ease, backup all the data off that and onto my new 5TB external hard drive. 
 
-![Image Title Name](/assets/img/blog/hdd-repair-3.jpg)
+![Image Title Name](https://github.com/tmeralus/tmeralus.github.io/blob/master/assets/blog/hdd-repair-2.jpg)
 
 The lessons learned today and listening to Cardi B's WAP song will remind me of that one time LInux failed me....but didn't. Linux never fails. Thanks for reading. 
 
