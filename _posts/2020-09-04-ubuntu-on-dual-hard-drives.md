@@ -40,7 +40,7 @@ When Ubuntu first loads, the welcome screen appears with two options. Select the
 ![Install Option](/assets/blog/hdd-setup/install-options.png)
 
 Then choose your language (English) to continue.
-![Choose Language](/assets/blog/hdd-setup/choose-language.png)
+![Choose Language](/assets/blog/hdd-setup/choose-language-1.png)
 
 
 On the next page the installation will ask about updates and other software. These options can be skipped if need be. They don't affect the this guide but can be helpful with specific audio codecs and drivers needed for your machine.
