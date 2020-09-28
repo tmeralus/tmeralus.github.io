@@ -25,7 +25,9 @@ This guide can also be used for other use cases as well. An example would be old
 
 ## Making a bootable USB disk
 
-in this guide we will start by downloading the latest version of Ubuntu Linux, our distro of choice. You can choose other distros, but the images and steps may vary. The Ubuntu version at the time of this guide is 20.04.1. Once you have the iso file downloaded you can then download the [Ether USB imaging tool](https://www.balena.io/etcher/). I have found this to be the quickest and most straightforward easy-to-use tool for creating bootable usb images on any operating system. Once Etcher is install you can quickly choose "Select Image" and find the Ubuntu Iso file you just downloaded and select it. Insert your usb drive and Ether should auto detect if it its the only usb drive connected to your machine. From there you can just click "Flash" button and Etcher will handle the rest of the disk creation process. Once completed you can safely remove the usb and use this to install Ubuntu on your computer with dual hard drives.
+in this guide we will start by downloading the latest version of Ubuntu Linux, our distro of choice. You can choose other distros, but the images and steps may vary. The Ubuntu version at the time of this guide is 20.04.1. Once you have the iso file downloaded you can then download the [Ether USB imaging tool](https://www.balena.io/etcher/). I have found this to be the quickest and most straightforward easy-to-use tool for creating bootable usb images on any operating system.
+
+ Once Etcher is install you can quickly choose "Select Image" and find the Ubuntu Iso file you just downloaded and select it. Insert your usb drive and Ether should auto detect if it its the only usb drive connected to your machine. From there you can just click "Flash" button and Etcher will handle the rest of the disk creation process. Once completed you can safely remove the usb and use this to install Ubuntu on your computer with dual hard drives.
 
 
 ## Setting up BIOS, configuring the boot order
@@ -41,7 +43,7 @@ When Ubuntu first loads, the welcome screen appears with two options. Select the
 
 Then choose your language (English) to continue.
 
-![Choose Language](/assets/blog/hdd-setup/choose-language-1.png)
+![Choose Language](/assets/blog/hdd-setup/choose-language.png)
 
 
 On the next page the installation will ask about updates and other software. These options can be skipped if need be. They don't affect the this guide but can be helpful with specific audio codecs and drivers needed for your machine.
