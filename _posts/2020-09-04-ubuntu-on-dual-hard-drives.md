@@ -40,17 +40,20 @@ When Ubuntu first loads, the welcome screen appears with two options. Select the
 ![Install Option](/assets/blog/hdd-setup/install-options.png)
 
 Then choose your language (English) to continue.
+
 ![Choose Language](/assets/blog/hdd-setup/choose-language-1.png)
 
 
 On the next page the installation will ask about updates and other software. These options can be skipped if need be. They don't affect the this guide but can be helpful with specific audio codecs and drivers needed for your machine.
 
 ![Update Options](/assets/blog/hdd-setup/update-options.png)
+
 After choosing or selecting both boxes in the “Preparing to install Ubuntu” page, it will be time to select the installation type. There are many. However, with this tutorial the option required is the custom one. To get to the custom installation page, select the “something else” box, then click continue.
 
 This next step will point you to the Installation type option.
 
 ![Something Else](/assets/blog/hdd-setup/something-else.png)
+
  It will show any and all disks that can install Ubuntu. If two hard drives are available, they will show up here. If an SD card is plugged in, it will also show up.
 
 
@@ -90,6 +93,7 @@ Create the home partition using the same steps as above. Use all the available f
 
 
 ![Finish Setup](/assets/blog/hdd-setup/finish-setup.png)
+
 With both drives set up, select the correct drive the boot loader will go to, then click the “install now” button to start the installation process.
 
 ![Write to disk](/assets/blog/hdd-setup/finish-setup-2.png)
