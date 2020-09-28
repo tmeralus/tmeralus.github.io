@@ -17,6 +17,7 @@ disucss how the repo creates the csr and ssl file
 
 what is a csr
 
+https://opensource.com/article/20/9/ansible
 
 show links
 Ansible Playbook for deployment
