@@ -54,7 +54,7 @@ After choosing or selecting both boxes in the “Preparing to install Ubuntu” 
 
 This next step will point you to the Installation type option.
 
-![Something Else](/assets/blog/hdd-setup/something-else.png)
+![Something Else](/assets/blog/hdd-setup/something-else.PNG)
 
  It will show any and all disks that can install Ubuntu. If two hard drives are available, they will show up here. If an SD card is plugged in, it will also show up.
 
@@ -62,19 +62,19 @@ This next step will point you to the Installation type option.
 ### Partition Setup for Root / dir
 Select the hard drive that you plan to use for the root file system, in this example it will be the 128gb ssd. If there is already a partition table on it, the editor will show partitions. Delete all of them, using the tool. If the drive isn’t formatted and has no partitions, select the drive, then click “new partition table.” Do this for all drives so that they both have partition tables. These steps have options for formatting the hard drives as well, which should be done.
 
-![Format drives](/assets/blog/hdd-setup/hard-drive-home.png)
+![Format drives](/assets/blog/hdd-setup/hard-drive-home.PNG)
 
 Now that both drives have partition tables (and partitions deleted), the configuration can begin. Select the free space under drive one, then click the plus sign button to create a new partition. This will bring up the “Create partition window.”
 
 ### Boot Drive UEFI setup
 With my Dell G5-5587 laptop I am using [UEFI mode](https://wiki.ubuntu.com/UEFI/SecureBoot) so with this root drive I will be creating a boot drive and select "/boot" as the mount point for this partition as well.
 
-![Boot Drive](/assets/blog/hdd-setup/boot-partition.png)
+![Boot Drive](/assets/blog/hdd-setup/boot-partition.PNG)
 
 ### Swap Storage
 If you require Swap storage, create another partition on the drive before making the partition used for root "/". This can be done by clicking the “+” (plus) button, entering the desired size (1024 for 1gb, 2048 for 2gb), and selecting “swap area” in the drop-down.
 
-![Swap Size](/assets/blog/hdd-setup/swap-partition.png)
+![Swap Size](/assets/blog/hdd-setup/swap-partition.PNG)
 
 ### Root Drive setup
 Once you have those selections setup (swap drive is optional) you can use the rest of the drive for the root partition. Go to the “Mount Point” drop-down menu. Select / as the mount point, then the OK button to confirm the settings.
@@ -85,7 +85,7 @@ For the second drive select /home as the mount point. This will allows your home
 
 Create the home partition using the same steps as above. Use all the available free space left for the home partition size. The partition settings should look like this:
 
-![Home Drive](/assets/blog/hdd-setup/home-partition.png)
+![Home Drive](/assets/blog/hdd-setup/home-partition.PNG)
 
      Size = all remaining free space
      Type for the new partition = Primary
@@ -94,11 +94,11 @@ Create the home partition using the same steps as above. Use all the available f
      Mount point = /home
 
 
-![Finish Setup](/assets/blog/hdd-setup/finish-setup.png)
+![Finish Setup](/assets/blog/hdd-setup/finish-setup.PNG)
 
 With both drives set up, select the correct drive the boot loader will go to, then click the “install now” button to start the installation process.
 
-![Write to disk](/assets/blog/hdd-setup/finish-setup-2.png)
+![Write to disk](/assets/blog/hdd-setup/finish-setup-2.PNG)
 
 ### Finishing Steps
 The installation process from here is the standard installation. Select a time zone, create a username, computer host name, create a password. Once completed your all set. You can remove the usb thumb drive and reboot your machine when prompted.
