@@ -4,7 +4,7 @@ title:  "Ubuntu On Dual Hard Drives"
 date:   2020-09-04
 excerpt: "Installing Ubuntu"
 tags: [linux, hard drive, dual, hdd,]
-comments: true
+comments: false
 ---
 
 ## Installing Ubuntu with Two Hard Drives
@@ -20,7 +20,7 @@ This guide can also be used for other use cases as well. An example would be old
 
 ## Prerequisites
 * Latest Ubuntu Iso Image
-* [Ether USB imaging tool](https://www.balena.io/etcher/)
+* [Etcher USB imaging tool](https://www.balena.io/etcher/)
 * USB storage drive with at least 4gb
 
 ## Making a bootable USB disk
