@@ -7,12 +7,7 @@ project: true
 tags: [web, security, dev]
 comments: true
 ---
-
-![Image Title Name](/assets/img/blog/<image-name>)
-{:class="img-responsive"}
-https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs
-
-
+ 
 The Internet has become the number one resources for news, information, events, and all things social. As most people know there are many ways to create a website of your own and capture your own piece of the internet to share your stories, ideas, or even things you like with others. When doing so
 it is important to make sure you stay protected on the internet the same way you would in the real world. There are many steps to take in the real world to stay safe, however, in this article we will be talking about staying secure on the web with an ssl certificate.
 
