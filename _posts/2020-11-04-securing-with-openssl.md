@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Creating SSL's to secure your piece of the internet"
-date:   2017-10-04
+title:  "Securing your piece of the internet"
+date:   2020-11-04
 excerpt: "Open SSL and https security"
 project: true
 tags: [web, security, dev]

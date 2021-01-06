@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ubuntu On Dual Hard Drives"
-date:   2020-09-04
+date:   2020-10-16
 excerpt: "Installing Ubuntu"
 tags: [linux, hard drive, dual, hdd,]
 comments: false

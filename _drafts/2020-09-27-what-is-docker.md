@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "What is docker"
-date:   2020-09-19
-excerpt: "containerization and its cleanliness"
+title:  "Infrastructure security with Wazuh and SIEM"
+date:   2021-01-06
+excerpt: "SIEM and Wazuh security"
 project: true
 tags: [add, tags, here,]
 comments: true
 ---
-Use references from this blog post to discuss what docker is and why its important.
-how you can go from testing out vm's with lots of space and confusion to just testing out docker containers
-for code.
+
 
 introduce docker wordpress repo and how to build a wordpress instance with docker.
 ---test upgrading wordrpess in docker container before pushing out blog post.
