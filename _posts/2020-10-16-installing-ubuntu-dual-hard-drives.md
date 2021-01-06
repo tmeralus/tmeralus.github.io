@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ubuntu On Dual Hard Drives"
+title:  "Ubuntu Dual Hard drive setup"
 date:   2020-10-16
-excerpt: "Installing Ubuntu"
+excerpt: "Installing Ubuntu on a laptop"
 tags: [linux, hard drive, dual, hdd,]
 comments: false
 ---

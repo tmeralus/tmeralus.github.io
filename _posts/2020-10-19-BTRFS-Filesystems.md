@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hot swappable Filesystems, as smooth as btrfs"
+title:  "BTRFS Filesystems"
 date:   2017-10-19
-excerpt: "Hot swappable Filesystems, as smooth as btrfs"
+excerpt: "Hot swappable Filesystems"
 project: true  
 ---
 
