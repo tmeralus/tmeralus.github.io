@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Git vs Github and Pokemon"
-date:   2020-01-14
+date:   2021-01-14
 excerpt: "understanding what they are and how to remember the difference"
 tags:
 comments: true
