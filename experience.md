@@ -3,8 +3,6 @@ layout: page
 title: Work
 permalink: /experience/
 ---
-# MY EXPERIENCE IN IT
-
 ## Known Skills / Languages
 * Python
 * Bash
@@ -29,6 +27,7 @@ permalink: /experience/
 
 ## Web Projects
 * [SomeDiceGuys](www.somediceguysdnd.com)
+
 * [Garcia Truck Food](http://www.garciatruckfood.com/)
 
 # Work experience or my resume can be requested via Linkedin or Email
