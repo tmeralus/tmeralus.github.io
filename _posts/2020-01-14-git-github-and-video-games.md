@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Git vs Github and Video Games"
+title:  "Git vs Github and Pokemon"
 date:   2020-01-14
 excerpt: "understanding what they are and how to remember the difference"
 tags:
@@ -25,13 +25,17 @@ Now that we are following my example and have multiple save files of pokemon, ho
 
 In our example lets say your friends have heard of your progress in your pokemon game but want to only see the water-branch save file and see where your squirtle has been up to. With Github you can upload all your saves to Github and let people download (or pull) your save file and play you game as squirtle. If they found that they can help you or want to contribute to your game by beating a gym for you or finding a hack in the game to get 99x master balls, they can modify their water-branch version of the game and save it(or push) back to Github. Github allows you to look at the changes they made and choose if you want to combine your save file with their save file (merging).
 
+# Understanding with code
 Lets try and loop that example back to code. Lets say you have a simple html site that has a list of every active player on every NBA basketball team. If someone wanted to help you get every players name for the Los Angeles Lakers, they can pull your site down from Github, add the names for you, and then push up the changes to your original site location on Github. This would be called creating a pull request. If they wanted to take your site and use it for something completely different, they can take the current state of your site and download it for themselves to use. This would be called a (fork). That would be the same as someone taking your saved Charmander-branch game and continuing the game from where you left off.
 
+# Differences between the two.
 Unlike git, Github is an exclusive cloud based platform. It is a for-profit platform-as-a-service. It allows you to create repositories for free, and utilize most of its features for free which makes it one of the most popular options for people to store their projects or share their work with others. Github also expands git's features with a graphic interface. It has built in features for adding tasks, to-do lists, write discussions about issues and solve them with others, or have a timestamp for when changes were made to your code or your game saves from anywhere in the world. If you were to lose your game save on your gameboy or drop water onto your laptop, you can rest assure that your information is saved in a database in a Github repository.
 
+# Wrapping it up
 This explanation for git vs Github should be understood a bit more now.  
 I'm hoping that my explanation will help remind you in the future when someone asks you if you have ever used Github. If your a person who only likes keeping your save files on your gameboy and don't have a Github account to share your save files, then you probably don't have a Github account or used Github. But if you have a project, or game, and have multiple saves for the project saved in different branches then you are familiar with git, or saving a video game.
 
+# Other hosting options
 You can use other repository hosting services like BitBucket, SourceForge, or Gitlab. All those other options provide hosting options, built in security and management features, and tons of other things for helping you with your project. Most of them give you options to import you code directly into Github.
 
 
