@@ -1,19 +1,5 @@
 [
 	{
-		"name": "VB Tech Toolkit",
-		"image": "work_in_progress.png",
-		"date": "Oct 2014",
-		"url": "https://github.com/tmeralus/VB-TechToolkit",
-		"tags": ["ansible","docker"]
-	},
-	{
-		"name": "Docker Playground Ansible Role",
-		"image": "ansible-dir.png",
-		"date": "Oct 2019",
-		"url": "https://github.com/tmeralus/ansible-role-docker-playground",
-		"tags": ["ansible","docker"]
-	},
-	{
 		"name": "Tick Stack Ansible Role",
 		"image": "grafana-graph.png",
 		"date": "Sep 2019",

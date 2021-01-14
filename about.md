@@ -20,4 +20,4 @@ As I have grown and learned through the years I have found writing a useful reso
 
 Click [here](/projects/) to look at a few of my current (and older) projects
 
-### You can [email me](/contact/) or find me on [Twitter](https://twitter.com/exploi_TED) if you want to get in touch.
+### You can [email me](/contact/) or find me on [Twitter](https://twitter.com/techgameteddy) if you want to get in touch.

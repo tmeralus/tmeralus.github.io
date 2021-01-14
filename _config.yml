@@ -12,7 +12,8 @@ disqus_shortname: techgameteddy
 # google_analytics:
 
 share:
-  twitter_username: @techgameteddy
+  twitter_username: techgameteddy
+  linkedin_username: tmeralus
   fb_appid: # 000000000000
 
 enableTags: true
