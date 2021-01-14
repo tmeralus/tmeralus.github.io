@@ -6,7 +6,7 @@ excerpt: "understanding what they are and how to remember the difference"
 tags:
 comments: true
 ---
-
+## Git vs Github? Understanding what they are and how to remember the difference
 There are tons of classes in college or online that mentioned using git and Github for programming and keeping track of your code. There are also hundreds of people who try to break it down so you know the difference. This is one of the hundreds. What is git? What is Github? Why do they have different names? How can I understand it so I no longer get confused. Lets break it down with understanding and Pokemon.
 
 ## What Is Git?
