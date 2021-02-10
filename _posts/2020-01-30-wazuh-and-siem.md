@@ -152,7 +152,4 @@ Many companies use STIG's to help with implementing CVE's so they can stay up to
 # SCAP scanner and evaluations
 SCAP, or Security Content Automation Protocol is an expression used for changing security data in a standardized and human readable format. Once you setup wazuh or have it running proper it may feel intimidating but that's what this itty bitty blog is about.
 
-
-Full Setup for STIG
-full setup for PCI
-Full setup for log, file, and incidents
+For a a setup of Wazuh using ansible check out [this playbook ](https://github.com/tmeralus/ansible-role-wazuh-setup) 
