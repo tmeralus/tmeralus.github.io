@@ -40,4 +40,4 @@ I'm hoping that my explanation will help remind you in the future when someone a
 You can use other repository hosting services like BitBucket, SourceForge, or Gitlab. All those other options provide hosting options, built in security and management features, and tons of other things for helping you with your project. Most of them give you options to import you code directly into Github.
 
 
-If the pokemon analogy doesn't make sense to you then maybe you should try catching all of the original 121 pokemon and find a way to share your experience with me and others.  
+If the pokemon analogy doesn't make sense to you then maybe you should try catching all of the original 151 pokemon and find a way to share your experience with me and others.  
