@@ -10,13 +10,16 @@ comments: true
 
 
 # Dev environments
-# What is docker
-# Docker Compose
+# huge boxes covering an entire room
+# one laptop, multiple monitors
+# What is docker Docker Compose
 
 # Monitoring Applications
+# openshift
 # Wazuh Security
 # Devops and Jenkins
-# CCDA Validator
+# Tick stack grafana
+# Influx 2.0 stack
 
 
 define docker
