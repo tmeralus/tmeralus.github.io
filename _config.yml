@@ -1,25 +1,26 @@
-title: Tedley Meralus
-description: My Slice of the Internet
-author: Tedley Meralus
-logo: /static/img/ted-circle.png
-github: https://github.com/tmeralus
-about: Linux Engineer
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-baseurl: ""
-url: ""
-allowsearch: false
-disqus_shortname: techgameteddy
-# google_analytics:
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-share:
-  twitter_username: \exploiTED
-  fb_appid: # 000000000000
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-enableTags: true
-tagarray: []
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-paginate: 7
-per_page: 7
-paginate_path: "/page:num/"
-markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde

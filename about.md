@@ -1,23 +1,30 @@
 ---
 layout: page
-title: Linux Engineer | Web and App Developer | Poet
-permalink: /about/
+title: About
 ---
 
-### Welcome to my slice of the Internet.
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
- I am a creative person who writes poems, short stories, builds software, and web sites and code. I am highly experience in website and application development, system administration, and scalability through automation. I have worked professionally in mixed environments allowing me to grow my knowledge base in commercial open source software and tech standards. Over the past few years I've become experienced in Ansible and DevOps strategies in the IT industry.
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
- I have my turned passions art, technology, and open source software into a profitable means of living.
+There are currently two themes built on Poole:
 
-* I enjoy writing useful & reusable software tools to help others — check out my [projects page](/projects/).
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
-* I'm addicted to basketball, poetry, traveling, history, quizzes and trivia's, getting into philosophical debates, and meeting new people.
+Learn more and contribute on [GitHub](https://github.com/poole).
 
-* You can view my [resume here](/contact)
+## Setup
 
-As I have grown and learned through the years I have found writing a useful resource for not only myself but others in the Linux and tech communities. I spend my free time working with linux, automation tools, DevOps strategies, open source tools, and documenting potentially valuable content as I go.
+Some fun facts about the setup of this project include:
 
-Click [here](/projects/) to look at a few of my current (and older) projects
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-### You can [email me](/contact/) or find me on [Twitter](https://twitter.com/exploi_TED) if you want to get in touch.
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
