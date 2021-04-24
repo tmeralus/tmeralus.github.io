@@ -4,7 +4,8 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#removed due to compatibility issues
+#relative_permalinks: true
 
 # Setup
 title:            Ted's Blog
@@ -20,6 +21,6 @@ author:
 paginate:         5
 # Custom vars
 version:          1.0
-
+plugins: [jekyll-paginate]
 github:
   repo:           https://github.com/tmeralus/tmeralus.github.io

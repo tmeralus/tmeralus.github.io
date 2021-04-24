@@ -14,6 +14,8 @@ https://github.com/tmeralus/tmeralus.github.io/deployments
 
 ### Instructions
 
+sudo apt-get install ruby-full build-essential zlib1g-dev
+gem install jekyll bundler
 ### Install the jekyll and bundler gems.
 
  $ gem install jekyll bundler
@@ -26,8 +28,20 @@ https://github.com/tmeralus/tmeralus.github.io/deployments
 
  $ cd myblog
 
-### Build the site and make it available on a local server.
+### Build the site and make it available on a local server and automatically refresh the page with each change you make to the source files
 
- $ bundle exec jekyll serve
+ $ bundle exec jekyll serve --livereload
 
 ###  Browse to http://localhost:4000
+
+
+### Troubleshooting on Ubuntu
+  sudo gem install jekyll
+  sudo gem install jekyll bundler
+  cd ~/desiredFolder
+  jekyll new <foldername>
+  cd <foldername> OR
+  bundle init
+  bundle install
+  bundle add jekyll
+  bundle exec jekyll serve
