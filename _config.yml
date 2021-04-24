@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Ted's Blog
-tagline:          'Ted's Blog Portal'
+tagline:          'My Code and Conscience'
 description:      'DevOps Engineer | Writer | Twin | #LongLiveKenMercury'
 url:              blog.meralus.com
 baseurl:          /
@@ -18,9 +18,8 @@ author:
   url:            https://twitter.com/techgameteddy
 
 paginate:         5
-
 # Custom vars
-version:          2.1.0
+version:          1.0
 
 github:
-  repo:           https://github.com/tmeralus
+  repo:           https://github.com/tmeralus/tmeralus.github.io
